@@ -1,2 +1,2 @@
-# 0x002
+# MIMSpeed
 Download Speed
